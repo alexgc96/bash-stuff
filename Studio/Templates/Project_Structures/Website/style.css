@@ -1,0 +1,12 @@
+/* style.css — copied from Website template by create_project.sh */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+}

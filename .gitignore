@@ -1,0 +1,5 @@
+.DS_Store
+
+# Runtime output — not part of the template structure
+Studio/Projects/*/
+Studio/Quotes/
