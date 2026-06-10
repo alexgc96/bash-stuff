@@ -122,3 +122,9 @@ For layout or branding changes, the full HTML document lives between `cat > "$HT
 ## Studio OS
 
 These are somewhat antiquated but they could be useful for integrating them as backend for your own apps. Currently I use Python versions with a bit better logic in developing Studio OS — I'll make those available once they are nice and stable.
+
+---
+
+### Tested on MacOS
+
+These should work on UNIX and UNIX like systems but I've only tested in MacOS just an additional disclaimer :)
